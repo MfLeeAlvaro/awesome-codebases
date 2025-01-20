@@ -11,4 +11,8 @@ Please ensure your pull request adheres to the following guidelines:
 - Keep descriptions short and simple, but descriptive. You can use the "description" section of the repository.
 - Check your spelling and grammar.
 
+## Python Zen Guideline
+"Simple is better than complex."  
+When contributing, aim for simplicity in code and documentation.
+
 Thank you for your suggestions!
